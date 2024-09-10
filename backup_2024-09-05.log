@@ -1,0 +1,20 @@
+sending incremental file list
+created directory backupdir//current
+./
+file1.txt
+file2.txt
+file3.txt
+file4.txt
+
+sent 171 bytes  received 72 bytes  486.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory backupdir//current
+./
+file1.txt
+file2.txt
+file3.txt
+file4.txt
+
+sent 315 bytes  received 136 bytes  902.00 bytes/sec
+total size is 0  speedup is 0.00

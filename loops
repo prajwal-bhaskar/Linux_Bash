@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+while [ -f ./hello.txt ]
+do
+  echo "The file was found in the directory as of $(date)"
+  sleep 0.5
+done
+
+echo "The file was not found in the directory as of $(date)"

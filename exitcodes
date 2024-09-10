@@ -1,0 +1,13 @@
+#!/bin/bash
+
+directory=../ansible_scripts
+
+
+if [ -d $directory ]
+then
+   echo "The directory $directory was found. The exit code is $?"
+else
+   echo "The directory $directory was not found. The exit code is $?"
+fi
+
+

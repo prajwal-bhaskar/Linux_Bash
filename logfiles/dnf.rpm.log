@@ -1,0 +1,1202 @@
+2024-05-24T03:03:53Z INFO --- logging initialized ---
+2024-05-24T03:04:49Z SUBDEBUG Installed: libgcc-11.4.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:49Z SUBDEBUG Installed: libgcc-11.4.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:49Z SUBDEBUG Installed: tzdata-2024a-1.amzn2023.0.1.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: tzdata-2024a-1.amzn2023.0.1.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: vim-data-2:9.0.2153-1.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: vim-data-2:9.0.2153-1.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: vim-filesystem-2:9.0.2153-1.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: vim-filesystem-2:9.0.2153-1.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: rust-srpm-macros-21-42.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: rust-srpm-macros-21-42.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: quota-nls-1:4.06-4.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: quota-nls-1:4.06-4.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: python3-setuptools-wheel-59.6.0-2.amzn2023.0.4.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: python3-setuptools-wheel-59.6.0-2.amzn2023.0.4.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: publicsuffix-list-dafsa-20240212-61.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: publicsuffix-list-dafsa-20240212-61.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: pkgconf-m4-1.8.0-4.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: pkgconf-m4-1.8.0-4.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: perl-srpm-macros-1-39.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: perl-srpm-macros-1-39.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: pcre2-syntax-10.40-1.amzn2023.0.3.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: pcre2-syntax-10.40-1.amzn2023.0.3.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: openblas-srpm-macros-2-9.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: openblas-srpm-macros-2-9.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: ocaml-srpm-macros-6-6.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: ocaml-srpm-macros-6-6.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: ncurses-base-6.2-4.20200222.amzn2023.0.6.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: ncurses-base-6.2-4.20200222.amzn2023.0.6.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: kernel-livepatch-repo-s3-2023.4.20240528-0.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: kernel-livepatch-repo-s3-2023.4.20240528-0.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: ncurses-libs-6.2-4.20200222.amzn2023.0.6.x86_64
+2024-05-24T03:04:50Z SUBDEBUG Installed: ncurses-libs-6.2-4.20200222.amzn2023.0.6.x86_64
+2024-05-24T03:04:50Z SUBDEBUG Installed: amazon-linux-repo-s3-2023.4.20240528-0.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: amazon-linux-repo-s3-2023.4.20240528-0.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: bash-5.2.15-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:50Z SUBDEBUG Installed: bash-5.2.15-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:50Z SUBDEBUG Installed: system-release-2023.4.20240528-0.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: system-release-2023.4.20240528-0.amzn2023.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: setup-2.13.7-3.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: setup-2.13.7-3.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: filesystem-3.14-5.amzn2023.0.3.x86_64
+2024-05-24T03:04:50Z SUBDEBUG Installed: filesystem-3.14-5.amzn2023.0.3.x86_64
+2024-05-24T03:04:50Z SUBDEBUG Installed: basesystem-11-11.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: basesystem-11-11.amzn2023.0.2.noarch
+2024-05-24T03:04:50Z SUBDEBUG Installed: glibc-all-langpacks-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: glibc-all-langpacks-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: glibc-gconv-extra-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: glibc-gconv-extra-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: glibc-common-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: glibc-common-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: glibc-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: glibc-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: zlib-1.2.11-33.amzn2023.0.5.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: zlib-1.2.11-33.amzn2023.0.5.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: popt-1.18-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: popt-1.18-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libuuid-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libuuid-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: xz-libs-5.2.5-9.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: xz-libs-5.2.5-9.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libstdc++-11.4.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libstdc++-11.4.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libcap-2.48-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libcap-2.48-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: systemd-libs-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: systemd-libs-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: bzip2-libs-1.0.8-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: bzip2-libs-1.0.8-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libcom_err-1.46.5-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libcom_err-1.46.5-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libxcrypt-4.4.33-7.amzn2023.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libxcrypt-4.4.33-7.amzn2023.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: sqlite-libs-3.40.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: sqlite-libs-3.40.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libxml2-2.10.4-1.amzn2023.0.6.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libxml2-2.10.4-1.amzn2023.0.6.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: elfutils-libelf-0.188-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: elfutils-libelf-0.188-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libzstd-1.5.5-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: libzstd-1.5.5-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:51Z SUBDEBUG Installed: pcre2-10.40-1.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: pcre2-10.40-1.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: grep-3.8-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: grep-3.8-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libunistring-0.9.10-10.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libunistring-0.9.10-10.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libidn2-2.3.2-1.amzn2023.0.5.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libidn2-2.3.2-1.amzn2023.0.5.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: lua-libs-5.4.4-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: lua-libs-5.4.4-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: nspr-4.35.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: nspr-4.35.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: readline-8.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: readline-8.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: alternatives-1.15-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: alternatives-1.15-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: gmp-1:6.2.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: gmp-1:6.2.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: keyutils-libs-1.6.3-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: keyutils-libs-1.6.3-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libattr-2.5.1-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libattr-2.5.1-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libacl-2.3.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libacl-2.3.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libcap-ng-0.8.2-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libcap-ng-0.8.2-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: audit-libs-3.0.6-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: audit-libs-3.0.6-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libsepol-3.4-3.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libsepol-3.4-3.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libselinux-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libselinux-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: sed-4.8-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: sed-4.8-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: findutils-1:4.8.0-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: findutils-1:4.8.0-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtalloc-2.3.4-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtalloc-2.3.4-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libsemanage-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libsemanage-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: shadow-utils-2:4.9-12.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: shadow-utils-2:4.9-12.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: nss-util-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: nss-util-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: file-libs-5.39-7.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: file-libs-5.39-7.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: expat-2.5.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: expat-2.5.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: json-c-0.14-8.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: json-c-0.14-8.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libffi-3.4.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libffi-3.4.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: p11-kit-0.24.1-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: p11-kit-0.24.1-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libgpg-error-1.42-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libgpg-error-1.42-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libsmartcols-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libsmartcols-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: grub2-common-1:2.06-61.amzn2023.0.12.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: grub2-common-1:2.06-61.amzn2023.0.12.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: file-5.39-7.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: file-5.39-7.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtevent-0.13.0-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtevent-0.13.0-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: nettle-3.8-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: nettle-3.8-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: dbus-libs-1:1.12.28-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: dbus-libs-1:1.12.28-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: procps-ng-3.3.17-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: procps-ng-3.3.17-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: boost-system-1.75.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: boost-system-1.75.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: gdbm-libs-1:1.19-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: gdbm-libs-1:1.19-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libedit-3.1-38.20210714cvs.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libedit-3.1-38.20210714cvs.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libgomp-11.4.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libgomp-11.4.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libref_array-0.1.5-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libref_array-0.1.5-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libverto-0.3.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libverto-0.3.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: lmdb-libs-0.9.29-1.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: lmdb-libs-0.9.29-1.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: lz4-libs-1.9.4-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: lz4-libs-1.9.4-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libassuan-2.5.5-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libassuan-2.5.5-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libutempter-1.2.1-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libutempter-1.2.1-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libselinux-utils-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libselinux-utils-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libpsl-0.21.1-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libpsl-0.21.1-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: xz-5.2.5-9.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: xz-5.2.5-9.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtextstyle-0.21-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtextstyle-0.21-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: e2fsprogs-libs-1.46.5-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: e2fsprogs-libs-1.46.5-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: gdisk-1.0.8-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: gdisk-1.0.8-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: groff-base-1.22.4-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: groff-base-1.22.4-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: diffutils-3.8-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: diffutils-3.8-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: fuse-libs-2.9.9-13.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: fuse-libs-2.9.9-13.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: jansson-2.14-0.amzn2023.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: jansson-2.14-0.amzn2023.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libbasicobjects-0.1.1-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libbasicobjects-0.1.1-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libcollection-0.7.0-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libcollection-0.7.0-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libdb-5.3.28-49.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libdb-5.3.28-49.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libdhash-0.5.0-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libdhash-0.5.0-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libmnl-1.0.4-13.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libmnl-1.0.4-13.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libnl3-3.5.0-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libnl3-3.5.0-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libseccomp-2.5.3-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libseccomp-2.5.3-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libsss_idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libsss_idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtasn1-4.19.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtasn1-4.19.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: p11-kit-trust-0.24.1-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: p11-kit-trust-0.24.1-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtdb-1.4.7-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libtdb-1.4.7-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libyaml-0.2.5-5.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: libyaml-0.2.5-5.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: ncurses-6.2-4.20200222.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: ncurses-6.2-4.20200222.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: pciutils-libs-3.7.0-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: pciutils-libs-3.7.0-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: protobuf-c-1.4.1-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: protobuf-c-1.4.1-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: coreutils-common-8.32-30.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: coreutils-common-8.32-30.amzn2023.0.3.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Text-Tabs+Wrap-2021.0726-1.amzn2023.0.1.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Text-Tabs+Wrap-2021.0726-1.amzn2023.0.1.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-if-0.60.800-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-if-0.60.800-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Time-Local-2:1.300-5.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Time-Local-2:1.300-5.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-File-Path-2.18-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-File-Path-2.18-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Pod-Escapes-1:1.07-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Pod-Escapes-1:1.07-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Class-Struct-0.66-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Class-Struct-0.66-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-POSIX-1.94-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-POSIX-1.94-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Term-ANSIColor-5.01-459.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Term-ANSIColor-5.01-459.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-IPC-Open3-1.21-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-IPC-Open3-1.21-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-HTTP-Tiny-0.078-1.amzn2023.0.3.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-HTTP-Tiny-0.078-1.amzn2023.0.3.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-subs-1.03-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-subs-1.03-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-File-Temp-1:0.231.100-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-File-Temp-1:0.231.100-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Term-Cap-1.17-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Term-Cap-1.17-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Pod-Simple-1:3.42-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Pod-Simple-1:3.42-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Socket-4:2.032-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Socket-4:2.032-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-SelectSaver-1.02-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-SelectSaver-1.02-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Symbol-1.08-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Symbol-1.08-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-File-stat-1.09-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-File-stat-1.09-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-podlators-1:4.14-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-podlators-1:4.14-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Pod-Perldoc-3.28.01-459.amzn2023.0.3.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Pod-Perldoc-3.28.01-459.amzn2023.0.3.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Fcntl-1.13-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Fcntl-1.13-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Text-ParseWords-3.30-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Text-ParseWords-3.30-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-mro-1.23-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-mro-1.23-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-IO-1.43-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-IO-1.43-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-overloading-0.02-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-overloading-0.02-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Pod-Usage-4:2.01-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Pod-Usage-4:2.01-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Errno-1.30-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Errno-1.30-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-File-Basename-2.85-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-File-Basename-2.85-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Getopt-Std-1.12-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Getopt-Std-1.12-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-MIME-Base64-3.16-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-MIME-Base64-3.16-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Scalar-List-Utils-4:1.56-459.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Scalar-List-Utils-4:1.56-459.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-constant-1.33-459.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-constant-1.33-459.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Storable-1:3.21-458.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Storable-1:3.21-458.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-overload-1.31-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-overload-1.31-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-parent-1:0.238-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-parent-1:0.238-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-vars-1.05-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-vars-1.05-477.amzn2023.0.6.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Getopt-Long-1:2.52-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Getopt-Long-1:2.52-2.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-DynaLoader-1.47-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-DynaLoader-1.47-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Carp-1.50-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Carp-1.50-458.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Exporter-5.74-459.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Exporter-5.74-459.amzn2023.0.2.noarch
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-PathTools-3.78-459.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-PathTools-3.78-459.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Encode-4:3.15-462.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-Encode-4:3.15-462.amzn2023.0.2.x86_64
+2024-05-24T03:04:52Z SUBDEBUG Installed: perl-libs-4:5.32.1-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: perl-libs-4:5.32.1-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: perl-interpreter-4:5.32.1-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: perl-interpreter-4:5.32.1-477.amzn2023.0.6.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libibverbs-48.0-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libibverbs-48.0-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libpcap-14:1.10.1-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libpcap-14:1.10.1-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gettext-libs-0.21-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gettext-libs-0.21-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gettext-0.21-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gettext-0.21-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: zstd-1.5.5-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: zstd-1.5.5-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: boost-filesystem-1.75.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: boost-filesystem-1.75.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: boost-thread-1.75.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: boost-thread-1.75.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libgcrypt-1.10.2-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libgcrypt-1.10.2-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libcomps-0.1.20-1.amzn2023.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libcomps-0.1.20-1.amzn2023.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libmetalink-0.1.3-14.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libmetalink-0.1.3-14.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: nss-softokn-freebl-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: nss-softokn-freebl-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: nss-softokn-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: nss-softokn-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: chkconfig-1.15-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: chkconfig-1.15-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: attr-2.5.1-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: attr-2.5.1-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: keyutils-1.6.3-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: keyutils-1.6.3-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: mpfr-4.1.0-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: mpfr-4.1.0-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: dwz-0.14-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: dwz-0.14-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libss-1.46.5-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libss-1.46.5-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: unzip-6.0-57.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: unzip-6.0-57.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: zip-3.0-28.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: zip-3.0-28.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libconfig-1.7.2-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libconfig-1.7.2-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: tbb-2020.3-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: tbb-2020.3-7.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: info-6.7-10.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: info-6.7-10.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: c-ares-1.19.0-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: c-ares-1.19.0-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: checkpolicy-3.4-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: checkpolicy-3.4-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: cpio-2.13-13.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: cpio-2.13-13.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: efivar-libs-38-2.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: efivar-libs-38-2.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: efivar-38-2.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: efivar-38-2.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: fstrm-0.6.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: fstrm-0.6.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gpm-libs-1.20.7-26.amzn2023.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gpm-libs-1.20.7-26.amzn2023.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: hostname-3.23-4.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: hostname-3.23-4.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: inih-49-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: inih-49-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: jitterentropy-3.4.1-4.amzn2023.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: jitterentropy-3.4.1-4.amzn2023.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: less-608-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: less-608-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libargon2-20171227-9.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libargon2-20171227-9.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libcbor-0.7.0-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libcbor-0.7.0-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libeconf-0.4.0-1.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libeconf-0.4.0-1.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libev-4.33-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libev-4.33-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libverto-libev-0.3.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libverto-libev-0.3.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libmaxminddb-1.5.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libmaxminddb-1.5.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libnghttp2-1.59.0-3.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libnghttp2-1.59.0-3.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libpath_utils-0.2.1-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libpath_utils-0.2.1-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libini_config-1.3.1-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libini_config-1.3.1-47.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libpipeline-1.5.3-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libpipeline-1.5.3-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libpkgconf-1.8.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libpkgconf-1.8.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libsigsegv-2.13-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libsigsegv-2.13-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gawk-5.1.0-3.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gawk-5.1.0-3.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libsss_nss_idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libsss_nss_idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libsss_sudo-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libsss_sudo-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libuv-1:1.47.0-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: libuv-1:1.47.0-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: lm_sensors-libs-3.6.0-8.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: lm_sensors-libs-3.6.0-8.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: npth-1.6-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: npth-1.6-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gnupg2-minimal-2.3.7-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gnupg2-minimal-2.3.7-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gpgme-1.15.1-6.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: gpgme-1.15.1-6.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: numactl-libs-2.0.14-3.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: numactl-libs-2.0.14-3.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: oniguruma-6.9.7.1-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: oniguruma-6.9.7.1-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: jq-1.7.1-48.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: jq-1.7.1-48.amzn2023.0.1.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: psmisc-23.4-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: psmisc-23.4-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: iproute-5.10.0-2.amzn2023.0.5.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: iproute-5.10.0-2.amzn2023.0.5.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: slang-2.3.2-9.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: slang-2.3.2-9.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: newt-0.52.21-9.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: newt-0.52.21-9.amzn2023.0.3.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: userspace-rcu-0.12.1-3.amzn2023.0.4.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: userspace-rcu-0.12.1-3.amzn2023.0.4.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: xxd-2:9.0.2153-1.amzn2023.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: xxd-2:9.0.2153-1.amzn2023.x86_64
+2024-05-24T03:04:53Z SUBDEBUG Installed: vim-common-2:9.0.2153-1.amzn2023.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: vim-common-2:9.0.2153-1.amzn2023.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: xxhash-libs-0.8.0-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: xxhash-libs-0.8.0-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: efi-filesystem-5-4.amzn2023.0.5.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: efi-filesystem-5-4.amzn2023.0.5.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: dbus-common-1:1.12.28-1.amzn2023.0.1.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: dbus-common-1:1.12.28-1.amzn2023.0.1.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: dbus-broker-32-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: dbus-broker-32-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: dbus-1:1.12.28-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: dbus-1:1.12.28-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: package-notes-srpm-macros-0.4-18.amzn2023.0.5.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: package-notes-srpm-macros-0.4-18.amzn2023.0.5.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: microcode_ctl-2:2.1-53.amzn2023.0.5.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: microcode_ctl-2:2.1-53.amzn2023.0.5.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: libreport-filesystem-2.15.2-2.amzn2023.0.2.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: libreport-filesystem-2.15.2-2.amzn2023.0.2.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: dnf-data-4.14.0-1.amzn2023.0.4.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: dnf-data-4.14.0-1.amzn2023.0.4.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: kernel-srpm-macros-1.0-14.amzn2023.0.2.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: kernel-srpm-macros-1.0-14.amzn2023.0.2.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: kbd-misc-2.4.0-2.amzn2023.0.3.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: kbd-misc-2.4.0-2.amzn2023.0.3.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: python3-pip-wheel-21.3.1-2.amzn2023.0.7.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: python3-pip-wheel-21.3.1-2.amzn2023.0.7.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: python3-setuptools-59.6.0-2.amzn2023.0.4.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: python3-setuptools-59.6.0-2.amzn2023.0.4.noarch
+2024-05-24T03:04:54Z SUBDEBUG Installed: python3-libs-3.9.16-1.amzn2023.0.8.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: python3-libs-3.9.16-1.amzn2023.0.8.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: python3-3.9.16-1.amzn2023.0.8.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: python3-3.9.16-1.amzn2023.0.8.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: krb5-libs-1.21-3.amzn2023.0.4.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: krb5-libs-1.21-3.amzn2023.0.4.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: grubby-8.40-51.amzn2023.0.4.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: grubby-8.40-51.amzn2023.0.4.x86_64
+2024-05-24T03:04:54Z SUBDEBUG Installed: libarchive-3.5.3-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libarchive-3.5.3-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: curl-minimal-8.5.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: curl-minimal-8.5.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libcurl-minimal-8.5.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libcurl-minimal-8.5.0-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libkcapi-1.4.0-105.amzn2023.0.1.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libkcapi-1.4.0-105.amzn2023.0.1.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libkcapi-hmaccalc-1.4.0-105.amzn2023.0.1.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libkcapi-hmaccalc-1.4.0-105.amzn2023.0.1.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: crypto-policies-scripts-20220428-1.gitdfb10ea.amzn2023.0.2.noarch
+2024-05-24T03:04:55Z SUBDEBUG Installed: crypto-policies-scripts-20220428-1.gitdfb10ea.amzn2023.0.2.noarch
+2024-05-24T03:04:55Z SUBDEBUG Installed: crypto-policies-20220428-1.gitdfb10ea.amzn2023.0.2.noarch
+2024-05-24T03:04:55Z SUBDEBUG Installed: crypto-policies-20220428-1.gitdfb10ea.amzn2023.0.2.noarch
+2024-05-24T03:04:55Z SUBDEBUG Installed: cracklib-dicts-2.9.6-27.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: cracklib-dicts-2.9.6-27.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: cracklib-2.9.6-27.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: cracklib-2.9.6-27.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: gzip-1.12-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: gzip-1.12-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: rpm-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: rpm-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: grub2-tools-minimal-1:2.06-61.amzn2023.0.12.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: grub2-tools-minimal-1:2.06-61.amzn2023.0.12.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: device-mapper-1.02.185-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: device-mapper-1.02.185-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: device-mapper-libs-1.02.185-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: device-mapper-libs-1.02.185-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: elfutils-debuginfod-client-0.188-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: elfutils-debuginfod-client-0.188-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: elfutils-default-yama-scope-0.188-3.amzn2023.0.2.noarch
+2024-05-24T03:04:55Z SUBDEBUG Installed: elfutils-default-yama-scope-0.188-3.amzn2023.0.2.noarch
+2024-05-24T03:04:55Z SUBDEBUG Installed: elfutils-libs-0.188-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: elfutils-libs-0.188-3.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: kbd-2.4.0-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: kbd-2.4.0-2.amzn2023.0.3.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: pam-1.5.1-8.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: pam-1.5.1-8.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libpwquality-1.4.4-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libpwquality-1.4.4-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libfdisk-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libfdisk-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libmount-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libmount-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: util-linux-core-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z INFO /var/tmp/rpm-tmp.uUOaDb: line 2: ln: command not found
+
+2024-05-24T03:04:55Z SUBDEBUG Installed: util-linux-core-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: which-2.21-26.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: which-2.21-26.amzn2023.0.2.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: coreutils-8.32-30.amzn2023.0.3.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: coreutils-8.32-30.amzn2023.0.3.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libblkid-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: libblkid-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: util-linux-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: util-linux-2.37.4-1.amzn2023.0.4.x86_64
+2024-05-24T03:04:55Z SUBDEBUG Installed: ca-certificates-2023.2.64-1.0.amzn2023.0.1.noarch
+2024-05-24T03:04:56Z SUBDEBUG Installed: ca-certificates-2023.2.64-1.0.amzn2023.0.1.noarch
+2024-05-24T03:04:56Z SUBDEBUG Installed: openssl-libs-1:3.0.8-1.amzn2023.0.11.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: openssl-libs-1:3.0.8-1.amzn2023.0.11.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: rpm-libs-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: rpm-libs-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: kmod-29-2.amzn2023.0.5.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: kmod-29-2.amzn2023.0.5.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: kmod-libs-29-2.amzn2023.0.5.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: kmod-libs-29-2.amzn2023.0.5.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: cryptsetup-libs-2.6.1-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: cryptsetup-libs-2.6.1-1.amzn2023.0.1.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: systemd-networkd-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: systemd-networkd-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: systemd-pam-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: systemd-pam-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: systemd-resolved-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: systemd-resolved-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:56Z SUBDEBUG Installed: systemd-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:57Z INFO Creating group 'input' with GID 104.
+Creating group 'kvm' with GID 36.
+Creating group 'render' with GID 105.
+Creating group 'sgx' with GID 106.
+Creating group 'systemd-journal' with GID 190.
+Creating group 'systemd-network' with GID 192.
+Creating user 'systemd-network' (systemd Network Management) with UID 192 and GID 192.
+Creating group 'systemd-oom' with GID 999.
+Creating user 'systemd-oom' (systemd Userspace OOM Killer) with UID 999 and GID 999.
+Creating group 'systemd-resolve' with GID 193.
+Creating user 'systemd-resolve' (systemd Resolver) with UID 193 and GID 193.
+
+2024-05-24T03:04:57Z SUBDEBUG Installed: systemd-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:57Z SUBDEBUG Installed: dracut-055-6.amzn2023.0.8.x86_64
+2024-05-24T03:04:57Z SUBDEBUG Installed: dracut-055-6.amzn2023.0.8.x86_64
+2024-05-24T03:04:57Z SUBDEBUG Installed: libfido2-1.10.0-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:57Z SUBDEBUG Installed: libfido2-1.10.0-2.amzn2023.0.2.x86_64
+2024-05-24T03:04:57Z SUBDEBUG Installed: systemd-udev-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:58Z INFO Created symlink /etc/systemd/system/sysinit.target.wants/systemd-boot-update.service → /usr/lib/systemd/system/systemd-boot-update.service.
+
+2024-05-24T03:04:58Z SUBDEBUG Installed: systemd-udev-252.16-1.amzn2023.0.2.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: os-prober-1.77-7.amzn2023.0.3.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: os-prober-1.77-7.amzn2023.0.3.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: grub2-tools-1:2.06-61.amzn2023.0.12.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: grub2-tools-1:2.06-61.amzn2023.0.12.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: glib2-2.74.7-689.amzn2023.0.2.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: glib2-2.74.7-689.amzn2023.0.2.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: python3-six-1.15.0-5.amzn2023.0.2.noarch
+2024-05-24T03:04:58Z SUBDEBUG Installed: python3-six-1.15.0-5.amzn2023.0.2.noarch
+2024-05-24T03:04:58Z SUBDEBUG Installed: policycoreutils-3.4-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:58Z INFO Created symlink /etc/systemd/system/sysinit.target.wants/selinux-autorelabel-mark.service → /usr/lib/systemd/system/selinux-autorelabel-mark.service.
+
+2024-05-24T03:04:58Z SUBDEBUG Installed: policycoreutils-3.4-6.amzn2023.0.2.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: libtirpc-1.3.3-0.amzn2023.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: libtirpc-1.3.3-0.amzn2023.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: rpm-plugin-selinux-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: rpm-plugin-selinux-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:04:58Z SUBDEBUG Installed: selinux-policy-37.22-1.amzn2023.0.2.noarch
+2024-05-24T03:04:58Z SUBDEBUG Installed: selinux-policy-37.22-1.amzn2023.0.2.noarch
+2024-05-24T03:04:58Z SUBDEBUG Installed: selinux-policy-targeted-37.22-1.amzn2023.0.2.noarch
+2024-05-24T03:05:10Z SUBDEBUG Installed: selinux-policy-targeted-37.22-1.amzn2023.0.2.noarch
+2024-05-24T03:05:10Z SUBDEBUG Installed: openssh-8.7p1-8.amzn2023.0.10.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: openssh-8.7p1-8.amzn2023.0.10.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-distro-1.5.0-5.amzn2023.0.2.noarch
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-distro-1.5.0-5.amzn2023.0.2.noarch
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-libselinux-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-libselinux-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-dateutil-1:2.8.1-3.amzn2023.0.2.noarch
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-dateutil-1:2.8.1-3.amzn2023.0.2.noarch
+2024-05-24T03:05:10Z SUBDEBUG Installed: libmodulemd-2.13.0-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: libmodulemd-2.13.0-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-dbus-1.2.18-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-dbus-1.2.18-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: libsolv-0.7.22-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: libsolv-0.7.22-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: openssl-1:3.0.8-1.amzn2023.0.11.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: openssl-1:3.0.8-1.amzn2023.0.11.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: xfsprogs-5.18.0-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: xfsprogs-5.18.0-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: gnutls-3.8.0-380.amzn2023.0.6.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: gnutls-3.8.0-380.amzn2023.0.6.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: cyrus-sasl-lib-2.1.27-18.amzn2023.0.3.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: cyrus-sasl-lib-2.1.27-18.amzn2023.0.3.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: openldap-2.4.57-6.amzn2023.0.6.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: openldap-2.4.57-6.amzn2023.0.6.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: libldb-2.6.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: libldb-2.6.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: libnfsidmap-1:2.5.4-2.rc3.amzn2023.0.3.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: libnfsidmap-1:2.5.4-2.rc3.amzn2023.0.3.x86_64
+2024-05-24T03:05:10Z SUBDEBUG Installed: python3-docutils-0.16-4.amzn2023.0.2.noarch
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-docutils-0.16-4.amzn2023.0.2.noarch
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-idna-2.10-3.amzn2023.0.2.noarch
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-idna-2.10-3.amzn2023.0.2.noarch
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-ruamel-yaml-0.16.6-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-ruamel-yaml-0.16.6-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-ruamel-yaml-clib-0.1.2-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-ruamel-yaml-clib-0.1.2-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: sssd-nfs-idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: sssd-nfs-idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: libuser-0.63-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: libuser-0.63-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-libsemanage-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-libsemanage-3.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: openssh-server-8.7p1-8.amzn2023.0.10.x86_64
+2024-05-24T03:05:11Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/sshd.service → /usr/lib/systemd/system/sshd.service.
+
+2024-05-24T03:05:11Z SUBDEBUG Installed: openssh-server-8.7p1-8.amzn2023.0.10.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: quota-1:4.06-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: quota-1:4.06-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: rpcbind-1.2.6-0.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: rpcbind-1.2.6-0.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-configobj-5.0.6-23.amzn2023.0.3.noarch
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-configobj-5.0.6-23.amzn2023.0.3.noarch
+2024-05-24T03:05:11Z SUBDEBUG Installed: libstoragemgmt-1.9.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z INFO Creating group 'libstoragemgmt' with GID 997.
+Creating user 'libstoragemgmt' (daemon account for libstoragemgmt) with UID 997 and GID 997.
+Creating group 'systemd-coredump' with GID 996.
+Creating user 'systemd-coredump' (systemd Core Dumper) with UID 996 and GID 996.
+Creating group 'systemd-timesync' with GID 995.
+Creating user 'systemd-timesync' (systemd Time Synchronization) with UID 995 and GID 995.
+
+2024-05-24T03:05:11Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/libstoragemgmt.service → /usr/lib/systemd/system/libstoragemgmt.service.
+
+2024-05-24T03:05:11Z SUBDEBUG Installed: libstoragemgmt-1.9.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-libstoragemgmt-1.9.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-libstoragemgmt-1.9.4-5.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: initscripts-10.09-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z INFO Created symlink /etc/systemd/system/sysinit.target.wants/import-state.service → /usr/lib/systemd/system/import-state.service.
+
+2024-05-24T03:05:11Z SUBDEBUG Installed: initscripts-10.09-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: librepo-1.14.5-2.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: librepo-1.14.5-2.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: libdnf-0.69.0-8.amzn2023.0.5.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: libdnf-0.69.0-8.amzn2023.0.5.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-libdnf-0.69.0-8.amzn2023.0.5.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-libdnf-0.69.0-8.amzn2023.0.5.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-hawkey-0.69.0-8.amzn2023.0.5.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-hawkey-0.69.0-8.amzn2023.0.5.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: acpid-2.0.32-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: acpid-2.0.32-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: gssproxy-0.8.4-2.amzn2023.0.3.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: gssproxy-0.8.4-2.amzn2023.0.3.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: logrotate-3.20.1-2.amzn2023.0.3.x86_64
+2024-05-24T03:05:11Z INFO Created symlink /etc/systemd/system/timers.target.wants/logrotate.timer → /usr/lib/systemd/system/logrotate.timer.
+
+2024-05-24T03:05:11Z SUBDEBUG Installed: logrotate-3.20.1-2.amzn2023.0.3.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: net-tools-2.0-0.59.20160912git.amzn2023.0.3.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: net-tools-2.0-0.59.20160912git.amzn2023.0.3.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: rpm-build-libs-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: rpm-build-libs-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: rpm-plugin-systemd-inhibit-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: rpm-plugin-systemd-inhibit-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: rpm-sign-libs-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: rpm-sign-libs-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-rpm-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: python3-rpm-4.16.1.3-29.amzn2023.0.6.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: libevent-2.1.12-3.amzn2023.0.3.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: libevent-2.1.12-3.amzn2023.0.3.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: libsss_certmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: libsss_certmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: openssl-pkcs11-0.4.12-3.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: openssl-pkcs11-0.4.12-3.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: sbsigntools-0.9.4-8.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: sbsigntools-0.9.4-8.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: zram-generator-1.1.2-67.amzn2023.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: zram-generator-1.1.2-67.amzn2023.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: e2fsprogs-1.46.5-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: e2fsprogs-1.46.5-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: binutils-2.39-6.amzn2023.0.10.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: binutils-2.39-6.amzn2023.0.10.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: nss-sysinit-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: nss-sysinit-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: nss-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: nss-3.90.0-6.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: sssd-client-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: sssd-client-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:11Z SUBDEBUG Installed: sssd-common-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:12Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/sssd.service → /usr/lib/systemd/system/sssd.service.
+
+2024-05-24T03:05:12Z SUBDEBUG Installed: sssd-common-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: dyninst-10.2.1-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: dyninst-10.2.1-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: efi-srpm-macros-5-4.amzn2023.0.5.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: efi-srpm-macros-5-4.amzn2023.0.5.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: lua-srpm-macros-1-4.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: lua-srpm-macros-1-4.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: ec2-utils-2.2.0-1.amzn2023.0.1.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: ec2-utils-2.2.0-1.amzn2023.0.1.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: amazon-chrony-config-4.3-1.amzn2023.0.4.noarch
+2024-05-24T03:05:12Z INFO Created symlink /etc/systemd/system/chronyd.service.wants/chrony-config.service → /usr/lib/systemd/system/chrony-config.service.
+Unit /usr/lib/systemd/system/chrony-config.service is added as a dependency to a non-existent unit chronyd.service.
+
+2024-05-24T03:05:12Z SUBDEBUG Installed: amazon-chrony-config-4.3-1.amzn2023.0.4.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: chrony-4.3-1.amzn2023.0.4.x86_64
+2024-05-24T03:05:12Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/chronyd.service → /usr/lib/systemd/system/chronyd.service.
+
+2024-05-24T03:05:12Z SUBDEBUG Installed: chrony-4.3-1.amzn2023.0.4.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python-chevron-0.13.1-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python-chevron-0.13.1-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-attrs-20.3.0-2.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-attrs-20.3.0-2.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-audit-3.0.6-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-audit-3.0.6-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-awscrt-0.19.19-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-awscrt-0.19.19-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-chardet-4.0.0-1.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-chardet-4.0.0-1.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-colorama-0.4.4-2.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-colorama-0.4.4-2.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-gpg-1.15.1-6.amzn2023.0.3.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-gpg-1.15.1-6.amzn2023.0.3.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-jmespath-0.10.0-1.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-jmespath-0.10.0-1.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-jsonpointer-2.0-2.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-jsonpointer-2.0-2.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-jsonpatch-1.21-14.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-jsonpatch-1.21-14.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-libcomps-0.1.20-1.amzn2023.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-libcomps-0.1.20-1.amzn2023.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-dnf-4.14.0-1.amzn2023.0.4.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-dnf-4.14.0-1.amzn2023.0.4.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: dnf-4.14.0-1.amzn2023.0.4.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: dnf-4.14.0-1.amzn2023.0.4.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-lockfile-1:0.12.2-5.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-lockfile-1:0.12.2-5.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-daemon-2.3.0-4.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-daemon-2.3.0-4.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-markupsafe-1.1.1-10.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-markupsafe-1.1.1-10.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-netifaces-0.10.6-13.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-netifaces-0.10.6-13.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-oauthlib-3.0.2-9.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-oauthlib-3.0.2-9.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-ply-3.11-11.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-ply-3.11-11.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pycparser-2.20-3.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pycparser-2.20-3.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-cffi-1.14.5-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-cffi-1.14.5-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-cryptography-36.0.1-1.amzn2023.0.5.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-cryptography-36.0.1-1.amzn2023.0.5.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-prettytable-0.7.2-25.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-prettytable-0.7.2-25.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pyrsistent-0.17.3-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pyrsistent-0.17.3-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-jsonschema-3.2.0-9.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-jsonschema-3.2.0-9.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pyserial-3.4-10.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pyserial-3.4-10.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pysocks-1.7.1-8.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pysocks-1.7.1-8.amzn2023.0.2.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-urllib3-1.25.10-5.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-urllib3-1.25.10-5.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-requests-2.25.1-1.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-requests-2.25.1-1.amzn2023.0.3.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pytz-2022.7.1-1.amzn2023.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-pytz-2022.7.1-1.amzn2023.noarch
+2024-05-24T03:05:12Z SUBDEBUG Installed: python3-babel-2.9.1-1.amzn2023.0.2.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-babel-2.9.1-1.amzn2023.0.2.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-jinja2-2.11.3-1.amzn2023.0.3.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-jinja2-2.11.3-1.amzn2023.0.3.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-pyyaml-5.4.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-pyyaml-5.4.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-setools-4.4.1-1.amzn2023.x86_64
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-setools-4.4.1-1.amzn2023.x86_64
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-policycoreutils-3.4-6.amzn2023.0.2.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: python3-policycoreutils-3.4-6.amzn2023.0.2.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: cloud-init-22.2.2-1.amzn2023.1.12.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: cloud-init-22.2.2-1.amzn2023.1.12.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: cloud-init-cfg-ec2-22.2.2-1.amzn2023.1.12.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: cloud-init-cfg-ec2-22.2.2-1.amzn2023.1.12.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: policycoreutils-python-utils-3.4-6.amzn2023.0.2.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: policycoreutils-python-utils-3.4-6.amzn2023.0.2.noarch
+2024-05-24T03:05:13Z SUBDEBUG Installed: ec2-instance-connect-selinux-1.1-19.amzn2023.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: ec2-instance-connect-selinux-1.1-19.amzn2023.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: python3-systemd-235-51.amzn2023.0.2.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: python3-systemd-235-51.amzn2023.0.2.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: python3-dnf-plugins-core-4.3.0-13.amzn2023.0.4.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: python3-dnf-plugins-core-4.3.0-13.amzn2023.0.4.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: dnf-plugins-core-4.3.0-13.amzn2023.0.4.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: dnf-plugins-core-4.3.0-13.amzn2023.0.4.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: python3-wcwidth-0.2.5-3.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: python3-wcwidth-0.2.5-3.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: python3-prompt-toolkit-3.0.24-1.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: python3-prompt-toolkit-3.0.24-1.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hwdata-0.353-1.amzn2023.0.3.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hwdata-0.353-1.amzn2023.0.3.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-filesystem-1.7.0-9.amzn2023.0.3.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-filesystem-1.7.0-9.amzn2023.0.3.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-en-GB-0.20140811.1-18.amzn2023.0.3.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-en-GB-0.20140811.1-18.amzn2023.0.3.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-en-0.20140811.1-18.amzn2023.0.3.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-en-0.20140811.1-18.amzn2023.0.3.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-en-US-0.20140811.1-18.amzn2023.0.3.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-en-US-0.20140811.1-18.amzn2023.0.3.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-1.7.0-9.amzn2023.0.3.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: hunspell-1.7.0-9.amzn2023.0.3.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: ghc-srpm-macros-1.5.0-4.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: ghc-srpm-macros-1.5.0-4.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: fonts-srpm-macros-1:2.0.5-12.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: fonts-srpm-macros-1:2.0.5-12.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: go-srpm-macros-3.2.0-37.amzn2023.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: go-srpm-macros-3.2.0-37.amzn2023.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: python-srpm-macros-3.9-41.amzn2023.0.5.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: python-srpm-macros-3.9-41.amzn2023.0.5.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: amazon-rpm-config-228-3.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: amazon-rpm-config-228-3.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: pkgconf-1.8.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: pkgconf-1.8.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: pkgconf-pkg-config-1.8.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: pkgconf-pkg-config-1.8.0-4.amzn2023.0.2.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: bind-license-32:9.16.48-1.amzn2023.0.1.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: bind-license-32:9.16.48-1.amzn2023.0.1.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: bind-libs-32:9.16.48-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: bind-libs-32:9.16.48-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: bind-utils-32:9.16.48-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: bind-utils-32:9.16.48-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: bash-completion-1:2.11-2.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: bash-completion-1:2.11-2.amzn2023.0.2.noarch
+2024-05-24T03:05:28Z SUBDEBUG Installed: pciutils-3.7.0-3.amzn2023.0.2.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: pciutils-3.7.0-3.amzn2023.0.2.x86_64
+2024-05-24T03:05:28Z SUBDEBUG Installed: awscli-2-2.15.30-1.amzn2023.0.1.noarch
+2024-05-24T03:05:30Z SUBDEBUG Installed: awscli-2-2.15.30-1.amzn2023.0.1.noarch
+2024-05-24T03:05:30Z SUBDEBUG Installed: dnf-utils-4.3.0-13.amzn2023.0.4.noarch
+2024-05-24T03:05:30Z SUBDEBUG Installed: dnf-utils-4.3.0-13.amzn2023.0.4.noarch
+2024-05-24T03:05:30Z SUBDEBUG Installed: ec2-instance-connect-1.1-19.amzn2023.noarch
+2024-05-24T03:05:32Z INFO /bin/grep: warning: stray \ before %
+/bin/grep: warning: stray \ before %
+/bin/grep: warning: stray \ before %
+/bin/grep: warning: stray \ before %
+Running in chroot, ignoring command 'daemon-reload'
+Running in chroot, ignoring command 'is-active'
+Running in chroot, ignoring command 'restart'
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: ec2-instance-connect-1.1-19.amzn2023.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: amazon-ec2-net-utils-2.4.1-1.amzn2023.0.1.noarch
+2024-05-24T03:05:32Z INFO Failed to disable unit, unit NetworkManager-wait-online.service does not exist.
+Failed to disable unit, unit NetworkManager.service does not exist.
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: amazon-ec2-net-utils-2.4.1-1.amzn2023.0.1.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: aws-cfn-bootstrap-2.0-29.amzn2023.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: aws-cfn-bootstrap-2.0-29.amzn2023.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: dnf-plugin-release-notification-1.2-1.amzn2023.0.2.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: dnf-plugin-release-notification-1.2-1.amzn2023.0.2.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: dnf-plugin-support-info-1.2-1.amzn2023.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: dnf-plugin-support-info-1.2-1.amzn2023.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: yum-4.14.0-1.amzn2023.0.4.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: yum-4.14.0-1.amzn2023.0.4.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: systemtap-runtime-4.8-3.amzn2023.0.5.x86_64
+2024-05-24T03:05:32Z INFO Creating group 'stapusr' with GID 156.
+Creating group 'stapsys' with GID 157.
+Creating group 'stapdev' with GID 158.
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: systemtap-runtime-4.8-3.amzn2023.0.5.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: sssd-kcm-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:32Z INFO Created symlink /etc/systemd/system/sockets.target.wants/sssd-kcm.socket → /usr/lib/systemd/system/sssd-kcm.socket.
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: sssd-kcm-2.9.4-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: kpatch-runtime-0.9.7-13.amzn2023.0.1.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: kpatch-runtime-0.9.7-13.amzn2023.0.1.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: zram-generator-defaults-1.1.2-67.amzn2023.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: zram-generator-defaults-1.1.2-67.amzn2023.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: amazon-linux-sb-keys-2023.1-1.amzn2023.0.5.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: amazon-linux-sb-keys-2023.1-1.amzn2023.0.5.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: rng-tools-6.14-1.git.56626083.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/rngd.service → /usr/lib/systemd/system/rngd.service.
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: rng-tools-6.14-1.git.56626083.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: nfs-utils-1:2.5.4-2.rc3.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z INFO Running in chroot, ignoring command 'try-restart'
+
+2024-05-24T03:05:32Z INFO Running in chroot, ignoring command 'try-restart'
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: nfs-utils-1:2.5.4-2.rc3.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: ec2-hibinit-agent-1.0.8-0.amzn2023.noarch
+2024-05-24T03:05:32Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/hibinit-agent.service → /usr/lib/systemd/system/hibinit-agent.service.
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: ec2-hibinit-agent-1.0.8-0.amzn2023.noarch
+2024-05-24T03:05:32Z SUBDEBUG Installed: audit-3.0.6-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:32Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/auditd.service → /usr/lib/systemd/system/auditd.service.
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: audit-3.0.6-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: passwd-0.80-10.amzn2023.0.2.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: passwd-0.80-10.amzn2023.0.2.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: sudo-1.9.15-1.p5.amzn2023.0.1.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: sudo-1.9.15-1.p5.amzn2023.0.1.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: cyrus-sasl-plain-2.1.27-18.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: cyrus-sasl-plain-2.1.27-18.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: wget-1.21.3-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: wget-1.21.3-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: xfsdump-3.1.11-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: xfsdump-3.1.11-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: openssh-clients-8.7p1-8.amzn2023.0.10.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: openssh-clients-8.7p1-8.amzn2023.0.10.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: lsof-4.94.0-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: lsof-4.94.0-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: irqbalance-2:1.9.0-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/irqbalance.service → /usr/lib/systemd/system/irqbalance.service.
+
+2024-05-24T03:05:32Z SUBDEBUG Installed: irqbalance-2:1.9.0-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: grub2-efi-x64-ec2-1:2.06-61.amzn2023.0.12.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: grub2-efi-x64-ec2-1:2.06-61.amzn2023.0.12.x86_64
+2024-05-24T03:05:32Z SUBDEBUG Installed: kernel-6.1.91-99.172.amzn2023.x86_64
+2024-05-24T03:05:34Z SUBDEBUG Installed: kernel-6.1.91-99.172.amzn2023.x86_64
+2024-05-24T03:05:34Z SUBDEBUG Installed: dracut-config-ec2-3.0-4.amzn2023.0.2.noarch
+2024-05-24T03:05:34Z SUBDEBUG Installed: dracut-config-ec2-3.0-4.amzn2023.0.2.noarch
+2024-05-24T03:05:34Z SUBDEBUG Installed: dracut-config-generic-055-6.amzn2023.0.8.x86_64
+2024-05-24T03:05:34Z SUBDEBUG Installed: dracut-config-generic-055-6.amzn2023.0.8.x86_64
+2024-05-24T03:05:34Z SUBDEBUG Installed: amazon-ssm-agent-3.3.380.0-1.amzn2023.x86_64
+2024-05-24T03:05:35Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/amazon-ssm-agent.service → /usr/lib/systemd/system/amazon-ssm-agent.service.
+
+2024-05-24T03:05:35Z SUBDEBUG Installed: amazon-ssm-agent-3.3.380.0-1.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: at-3.1.23-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/atd.service → /usr/lib/systemd/system/atd.service.
+
+2024-05-24T03:05:35Z SUBDEBUG Installed: at-3.1.23-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: iputils-20210202-2.amzn2023.0.4.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: iputils-20210202-2.amzn2023.0.4.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: psacct-6.6.4-9.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: psacct-6.6.4-9.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: update-motd-2.2-1.amzn2023.noarch
+2024-05-24T03:05:35Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/update-motd.service → /usr/lib/systemd/system/update-motd.service.
+
+2024-05-24T03:05:35Z SUBDEBUG Installed: update-motd-2.2-1.amzn2023.noarch
+2024-05-24T03:05:35Z SUBDEBUG Installed: cryptsetup-2.6.1-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: cryptsetup-2.6.1-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: rsync-3.2.6-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: rsync-3.2.6-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: tcpdump-14:4.99.1-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: tcpdump-14:4.99.1-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: cloud-utils-growpart-0.31-8.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: cloud-utils-growpart-0.31-8.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: parted-3.4-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: parted-3.4-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: man-db-2.9.3-3.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: man-db-2.9.3-3.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: tcsh-6.24.07-1.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: tcsh-6.24.07-1.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: vim-enhanced-2:9.0.2153-1.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: vim-enhanced-2:9.0.2153-1.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: screen-4.8.0-5.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: screen-4.8.0-5.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: strace-6.8-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: strace-6.8-1.amzn2023.0.1.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: ntsysv-1.15-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: ntsysv-1.15-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: sysstat-12.5.6-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z INFO Created symlink /etc/systemd/system/multi-user.target.wants/sysstat.service → /usr/lib/systemd/system/sysstat.service.
+Created symlink /etc/systemd/system/sysstat.service.wants/sysstat-collect.timer → /usr/lib/systemd/system/sysstat-collect.timer.
+Created symlink /etc/systemd/system/sysstat.service.wants/sysstat-summary.timer → /usr/lib/systemd/system/sysstat-summary.timer.
+
+2024-05-24T03:05:35Z SUBDEBUG Installed: sysstat-12.5.6-1.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: ed-1.14.2-10.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: ed-1.14.2-10.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: kernel-tools-6.1.91-99.172.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: kernel-tools-6.1.91-99.172.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: ethtool-2:5.15-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: ethtool-2:5.15-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: grub2-pc-modules-1:2.06-61.amzn2023.0.12.noarch
+2024-05-24T03:05:35Z SUBDEBUG Installed: grub2-pc-modules-1:2.06-61.amzn2023.0.12.noarch
+2024-05-24T03:05:35Z SUBDEBUG Installed: nano-5.8-3.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: nano-5.8-3.amzn2023.0.3.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: crontabs-1.11-24.20190603git.amzn2023.0.2.noarch
+2024-05-24T03:05:35Z SUBDEBUG Installed: crontabs-1.11-24.20190603git.amzn2023.0.2.noarch
+2024-05-24T03:05:35Z SUBDEBUG Installed: tar-2:1.34-1.amzn2023.0.4.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: tar-2:1.34-1.amzn2023.0.4.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: vim-minimal-2:9.0.2153-1.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: vim-minimal-2:9.0.2153-1.amzn2023.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: acl-2.3.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: acl-2.3.1-2.amzn2023.0.2.x86_64
+2024-05-24T03:05:35Z SUBDEBUG Installed: man-pages-5.10-2.amzn2023.0.3.noarch
+2024-05-24T03:05:36Z SUBDEBUG Installed: man-pages-5.10-2.amzn2023.0.3.noarch
+2024-05-24T03:05:36Z SUBDEBUG Installed: bc-1.07.1-14.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: bc-1.07.1-14.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: bzip2-1.0.8-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: bzip2-1.0.8-6.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: dosfstools-4.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: dosfstools-4.2-1.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: glibc-locale-source-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: glibc-locale-source-2.34-52.amzn2023.0.10.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: libaio-0.3.111-11.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: libaio-0.3.111-11.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: time-1.9-16.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: time-1.9-16.amzn2023.0.2.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: traceroute-3:2.1.3-1.amzn2023.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: traceroute-3:2.1.3-1.amzn2023.x86_64
+2024-05-24T03:05:36Z SUBDEBUG Installed: words-3.0-37.amzn2023.0.2.noarch
+2024-05-24T03:05:36Z SUBDEBUG Installed: words-3.0-37.amzn2023.0.2.noarch
+2024-05-24T03:05:36Z SUBDEBUG Installed: sysctl-defaults-1.0-3.amzn2023.noarch
+2024-05-24T03:05:36Z SUBDEBUG Installed: sysctl-defaults-1.0-3.amzn2023.noarch
+2024-05-24T03:05:36Z SUBDEBUG Installed: rootfiles-8.1-29.amzn2023.0.2.noarch
+2024-05-24T03:05:36Z SUBDEBUG Installed: rootfiles-8.1-29.amzn2023.0.2.noarch
+2024-05-24T03:05:36Z INFO grub2-probe: error: failed to get canonical path of `/dev/mapper/loop6p1'.
+warning: %posttrans(grub2-common-1:2.06-61.amzn2023.0.12.noarch) scriptlet failed, exit status 1
+
+2024-05-24T03:05:36Z ERROR Error in POSTTRANS scriptlet in rpm package grub2-common
+2024-05-24T03:05:38Z INFO grub2-probe: error: failed to get canonical path of `/dev/mapper/loop6p1'.
+warning: %posttrans(grub2-efi-x64-ec2-1:2.06-61.amzn2023.0.12.x86_64) scriptlet failed, exit status 1
+
+2024-05-24T03:05:38Z ERROR Error in POSTTRANS scriptlet in rpm package grub2-efi-x64-ec2
+2024-05-24T03:05:46Z INFO grub2-probe: error: failed to get canonical path of `/dev/mapper/loop6p1'.
+No path or device is specified.
+Usage: grub2-probe [OPTION...] [OPTION]... [PATH|DEVICE]
+Try 'grub2-probe --help' or 'grub2-probe --usage' for more information.
+Checking Secure Boot revocations...
+efivar: show variable: Function not implemented
+Not a UEFI instance
+
+2024-05-24T03:06:59Z INFO --- logging initialized ---
+2024-05-29T22:58:40+0000 INFO --- logging initialized ---
+2024-05-29T22:58:57+0000 INFO --- logging initialized ---
+2024-05-29T23:05:08+0000 INFO --- logging initialized ---
+2024-05-29T23:05:12+0000 SUBDEBUG Installed: sshpass-1.09-6.amzn2023.0.1.x86_64
+2024-05-29T23:05:12+0000 SUBDEBUG Installed: git-core-2.40.1-1.amzn2023.0.3.x86_64
+2024-05-29T23:05:12+0000 SUBDEBUG Installed: ansible-core-2.15.3-1.amzn2023.0.3.x86_64
+2024-05-29T23:05:14+0000 SUBDEBUG Installed: ansible-8.3.0-1.amzn2023.0.1.noarch
+2024-06-06T03:52:37+0000 INFO --- logging initialized ---
+2024-06-06T03:52:39+0000 INFO --- logging initialized ---
+2024-06-06T04:50:47+0000 INFO --- logging initialized ---
+2024-06-06T04:51:40+0000 INFO --- logging initialized ---
+2024-06-06T04:52:41+0000 INFO --- logging initialized ---
+2024-06-06T04:53:02+0000 INFO --- logging initialized ---
+2024-06-06T04:53:11+0000 INFO --- logging initialized ---
+2024-06-06T04:56:18+0000 INFO --- logging initialized ---
+2024-06-06T04:56:23+0000 INFO --- logging initialized ---
+2024-06-06T04:56:30+0000 SUBDEBUG Installed: libxcrypt-compat-4.4.33-7.amzn2023.x86_64
+2024-06-06T04:56:30+0000 SUBDEBUG Installed: python3-pip-21.3.1-2.amzn2023.0.7.noarch
+2024-06-06T05:00:08+0000 INFO --- logging initialized ---
+2024-06-08T00:37:49+0000 INFO --- logging initialized ---
+2024-06-08T00:37:51+0000 INFO --- logging initialized ---
+2024-06-13T02:41:21+0000 INFO --- logging initialized ---
+2024-06-13T02:41:23+0000 INFO --- logging initialized ---
+2024-06-18T03:51:21+0000 INFO --- logging initialized ---
+2024-06-18T03:51:25+0000 INFO --- logging initialized ---
+2024-06-26T00:15:40+0000 INFO --- logging initialized ---
+2024-06-26T00:15:42+0000 INFO --- logging initialized ---
+2024-08-21T02:11:07+0000 INFO --- logging initialized ---
+2024-08-21T02:11:10+0000 INFO --- logging initialized ---
+2024-08-24T00:59:33+0000 INFO --- logging initialized ---
+2024-08-24T00:59:36+0000 INFO --- logging initialized ---
+2024-08-25T00:21:47+0000 INFO --- logging initialized ---
+2024-08-25T00:21:48+0000 INFO --- logging initialized ---
+2024-08-26T14:38:04+0000 INFO --- logging initialized ---
+2024-08-26T14:38:06+0000 INFO --- logging initialized ---
+2024-08-26T18:17:04+0000 INFO --- logging initialized ---
+2024-08-26T18:17:06+0000 INFO --- logging initialized ---
+2024-08-27T17:39:24+0000 INFO --- logging initialized ---
+2024-08-27T17:39:24+0000 INFO --- logging initialized ---
+2024-09-03T17:42:06+0000 INFO --- logging initialized ---
+2024-09-03T17:42:08+0000 INFO --- logging initialized ---
+2024-09-03T17:43:20+0000 INFO --- logging initialized ---
+2024-09-03T17:43:41+0000 SUBDEBUG Upgrade: glibc-all-langpacks-2.34-52.amzn2023.0.11.x86_64
+2024-09-03T17:43:43+0000 SUBDEBUG Upgrade: glibc-common-2.34-52.amzn2023.0.11.x86_64
+2024-09-03T17:43:43+0000 SUBDEBUG Upgrade: glibc-gconv-extra-2.34-52.amzn2023.0.11.x86_64
+2024-09-03T17:43:43+0000 SUBDEBUG Upgrade: glibc-2.34-52.amzn2023.0.11.x86_64
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: systemd-libs-252.23-2.amzn2023.x86_64
+2024-09-03T17:43:44+0000 SUBDEBUG Installed: jemalloc-5.2.1-7.amzn2023.x86_64
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: libsss_idmap-2.9.4-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: libsss_nss_idmap-2.9.4-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: libsss_sudo-2.9.4-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: sssd-nfs-idmap-2.9.4-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: kernel-livepatch-repo-s3-2023.5.20240819-0.amzn2023.noarch
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: system-release-2023.5.20240819-0.amzn2023.noarch
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: amazon-linux-repo-s3-2023.5.20240819-0.amzn2023.noarch
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: python3-setuptools-wheel-59.6.0-2.amzn2023.0.5.noarch
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: microcode_ctl-2:2.1-53.amzn2023.0.8.x86_64
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: dnf-data-4.14.0-1.amzn2023.0.5.noarch
+2024-09-03T17:43:44+0000 SUBDEBUG Upgrade: ca-certificates-2023.2.68-1.0.amzn2023.0.1.noarch
+2024-09-03T17:43:45+0000 SUBDEBUG Upgrade: openssl-libs-1:3.0.8-1.amzn2023.0.14.x86_64
+2024-09-03T17:43:45+0000 SUBDEBUG Upgrade: systemd-networkd-252.23-2.amzn2023.x86_64
+2024-09-03T17:43:45+0000 SUBDEBUG Upgrade: systemd-pam-252.23-2.amzn2023.x86_64
+2024-09-03T17:43:45+0000 SUBDEBUG Upgrade: systemd-252.23-2.amzn2023.x86_64
+2024-09-03T17:43:46+0000 SUBDEBUG Upgrade: systemd-resolved-252.23-2.amzn2023.x86_64
+2024-09-03T17:43:47+0000 SUBDEBUG Upgrade: krb5-libs-1.21.3-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:47+0000 SUBDEBUG Upgrade: systemd-udev-252.23-2.amzn2023.x86_64
+2024-09-03T17:43:48+0000 SUBDEBUG Upgrade: openssh-8.7p1-8.amzn2023.0.12.x86_64
+2024-09-03T17:43:48+0000 SUBDEBUG Upgrade: sssd-client-2.9.4-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:48+0000 SUBDEBUG Upgrade: device-mapper-libs-1.02.185-1.amzn2023.0.5.x86_64
+2024-09-03T17:43:48+0000 SUBDEBUG Upgrade: device-mapper-1.02.185-1.amzn2023.0.5.x86_64
+2024-09-03T17:43:48+0000 SUBDEBUG Upgrade: libsss_certmap-2.9.4-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:48+0000 SUBDEBUG Upgrade: sssd-common-2.9.4-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:48+0000 SUBDEBUG Upgrade: python3-setuptools-59.6.0-2.amzn2023.0.5.noarch
+2024-09-03T17:43:49+0000 SUBDEBUG Upgrade: python3-3.9.16-1.amzn2023.0.9.x86_64
+2024-09-03T17:43:49+0000 SUBDEBUG Upgrade: python3-libs-3.9.16-1.amzn2023.0.9.x86_64
+2024-09-03T17:43:50+0000 SUBDEBUG Upgrade: python3-dnf-4.14.0-1.amzn2023.0.5.noarch
+2024-09-03T17:43:51+0000 SUBDEBUG Upgrade: dnf-4.14.0-1.amzn2023.0.5.noarch
+2024-09-03T17:43:51+0000 SUBDEBUG Upgrade: bind-license-32:9.18.28-1.amzn2023.0.2.noarch
+2024-09-03T17:43:51+0000 SUBDEBUG Upgrade: bind-libs-32:9.18.28-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:51+0000 SUBDEBUG Upgrade: bind-utils-32:9.18.28-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:51+0000 SUBDEBUG Upgrade: yum-4.14.0-1.amzn2023.0.5.noarch
+2024-09-03T17:43:51+0000 SUBDEBUG Upgrade: ansible-core-2.15.3-1.amzn2023.0.4.x86_64
+2024-09-03T17:43:53+0000 SUBDEBUG Upgrade: aws-cfn-bootstrap-2.0-30.amzn2023.noarch
+2024-09-03T17:43:53+0000 SUBDEBUG Upgrade: python3-jinja2-2.11.3-1.amzn2023.0.4.noarch
+2024-09-03T17:43:53+0000 SUBDEBUG Upgrade: sssd-kcm-2.9.4-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:53+0000 SUBDEBUG Upgrade: openssh-clients-8.7p1-8.amzn2023.0.12.x86_64
+2024-09-03T17:43:53+0000 SUBDEBUG Upgrade: openssh-server-8.7p1-8.amzn2023.0.12.x86_64
+2024-09-03T17:43:53+0000 SUBDEBUG Installed: kernel-6.1.102-111.182.amzn2023.x86_64
+2024-09-03T17:43:56+0000 SUBDEBUG Upgrade: amazon-ec2-net-utils-2.5.1-1.amzn2023.0.1.noarch
+2024-09-03T17:43:57+0000 SUBDEBUG Upgrade: libarchive-3.7.4-2.amzn2023.0.1.x86_64
+2024-09-03T17:43:57+0000 SUBDEBUG Upgrade: openssl-1:3.0.8-1.amzn2023.0.14.x86_64
+2024-09-03T17:43:57+0000 SUBDEBUG Upgrade: glibc-locale-source-2.34-52.amzn2023.0.11.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgrade: kernel-tools-6.1.102-111.182.amzn2023.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgrade: nano-5.8-3.amzn2023.0.4.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgrade: wget-1.21.3-1.amzn2023.0.4.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgrade: hwdata-0.384-1.amzn2023.0.3.noarch
+2024-09-03T17:43:58+0000 SUBDEBUG Upgrade: grubby-8.40-73.amzn2023.0.1.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgraded: aws-cfn-bootstrap-2.0-29.amzn2023.noarch
+2024-09-03T17:43:58+0000 INFO Failed to set unit properties on aws-cfn-bootstrap.service: Unit aws-cfn-bootstrap.service not found.
+
+2024-09-03T17:43:58+0000 SUBDEBUG Upgraded: amazon-ec2-net-utils-2.4.1-1.amzn2023.0.1.noarch
+2024-09-03T17:43:58+0000 SUBDEBUG Upgraded: systemd-udev-252.16-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgraded: openssh-server-8.7p1-8.amzn2023.0.10.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgraded: device-mapper-1.02.185-1.amzn2023.0.4.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgraded: sssd-kcm-2.9.4-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgraded: sssd-common-2.9.4-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:58+0000 SUBDEBUG Upgraded: systemd-252.16-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: sssd-client-2.9.4-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: systemd-pam-252.16-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: openssh-clients-8.7p1-8.amzn2023.0.10.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: openssl-1:3.0.8-1.amzn2023.0.11.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: openssh-8.7p1-8.amzn2023.0.10.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: systemd-resolved-252.16-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: device-mapper-libs-1.02.185-1.amzn2023.0.4.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: systemd-libs-252.16-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: bind-utils-32:9.16.48-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: bind-libs-32:9.16.48-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: krb5-libs-1.21-3.amzn2023.0.4.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: libarchive-3.5.3-2.amzn2023.0.3.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: systemd-networkd-252.16-1.amzn2023.0.2.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: wget-1.21.3-1.amzn2023.0.3.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: libsss_nss_idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: sssd-nfs-idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: nano-5.8-3.amzn2023.0.3.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: kernel-tools-6.1.91-99.172.amzn2023.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: libsss_certmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: libsss_sudo-2.9.4-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: libsss_idmap-2.9.4-1.amzn2023.0.1.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: grubby-8.40-51.amzn2023.0.4.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: ansible-core-2.15.3-1.amzn2023.0.3.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: python3-jinja2-2.11.3-1.amzn2023.0.3.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: glibc-locale-source-2.34-52.amzn2023.0.10.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: yum-4.14.0-1.amzn2023.0.4.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: dnf-4.14.0-1.amzn2023.0.4.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: python3-dnf-4.14.0-1.amzn2023.0.4.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: kernel-livepatch-repo-s3-2023.4.20240528-0.amzn2023.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: system-release-2023.4.20240528-0.amzn2023.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: amazon-linux-repo-s3-2023.4.20240528-0.amzn2023.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: dnf-data-4.14.0-1.amzn2023.0.4.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: bind-license-32:9.16.48-1.amzn2023.0.1.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: microcode_ctl-2:2.1-53.amzn2023.0.5.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: hwdata-0.353-1.amzn2023.0.3.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: python3-3.9.16-1.amzn2023.0.8.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: python3-setuptools-59.6.0-2.amzn2023.0.4.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: python3-libs-3.9.16-1.amzn2023.0.8.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: python3-setuptools-wheel-59.6.0-2.amzn2023.0.4.noarch
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: openssl-libs-1:3.0.8-1.amzn2023.0.11.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: glibc-all-langpacks-2.34-52.amzn2023.0.10.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: glibc-common-2.34-52.amzn2023.0.10.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: glibc-2.34-52.amzn2023.0.10.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: glibc-gconv-extra-2.34-52.amzn2023.0.10.x86_64
+2024-09-03T17:43:59+0000 SUBDEBUG Upgraded: ca-certificates-2023.2.64-1.0.amzn2023.0.1.noarch
+2024-09-03T17:44:23+0000 INFO Checking Secure Boot revocations...
+efivar: show variable: Function not implemented
+Not a UEFI instance
+
+2024-09-03T19:35:21+0000 INFO --- logging initialized ---
+2024-09-03T19:35:22+0000 INFO --- logging initialized ---
+2024-09-03T19:35:25+0000 SUBDEBUG Installed: htop-3.2.1-87.amzn2023.0.3.x86_64
+2024-09-04T17:04:44+0000 INFO --- logging initialized ---
+2024-09-04T17:04:44+0000 INFO --- logging initialized ---
+2024-09-04T18:04:02+0000 INFO --- logging initialized ---
+2024-09-04T18:04:10+0000 INFO --- logging initialized ---
+2024-09-05T02:06:14+0000 INFO --- logging initialized ---
+2024-09-05T02:06:15+0000 INFO --- logging initialized ---

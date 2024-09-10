@@ -1,0 +1,394 @@
+Cloud-init v. 22.2.2 running 'init' at Wed, 29 May 2024 22:58:35 +0000. Up 7.98 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Generating public/private ed25519 key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ed25519_key
+Your public key has been saved in /etc/ssh/ssh_host_ed25519_key.pub
+The key fingerprint is:
+SHA256:cBrUzCkOQ+w1olMxJ3rtXobFxxPPaDzWtQPJlf3rS4o root@ip-172-31-19-52.ca-central-1.compute.internal
+The key's randomart image is:
++--[ED25519 256]--+
+|   o=.o+ ....ooo |
+|   .**+.=o *oo...|
+|  .+.*+o+ X + o .|
+|  o....B + o   ..|
+|   .  + S       .|
+|     . o       . |
+|      .       .. |
+|            . o. |
+|           E . ..|
++----[SHA256]-----+
+Generating public/private ecdsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ecdsa_key
+Your public key has been saved in /etc/ssh/ssh_host_ecdsa_key.pub
+The key fingerprint is:
+SHA256:eYtSJDEoFIl2tcFgNpI6k+VVfEJspH6CyMgUR/LgjaQ root@ip-172-31-19-52.ca-central-1.compute.internal
+The key's randomart image is:
++---[ECDSA 256]---+
+| O=X+X*          |
+|=o/.+oBo.        |
+|EB.=.o.o.        |
+|X..o   o .       |
+|o=. o . S .      |
+|     o . o .     |
+|      . . .      |
+|       .         |
+|                 |
++----[SHA256]-----+
+Cloud-init v. 22.2.2 running 'modules:config' at Wed, 29 May 2024 22:58:38 +0000. Up 11.18 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Wed, 29 May 2024 22:58:39 +0000. Up 12.47 seconds.
+Cloud-init v. 22.2.2 finished at Wed, 29 May 2024 22:58:39 +0000. Datasource DataSourceEc2.  Up 12.93 seconds
+Cloud-init v. 22.2.2 running 'init' at Thu, 06 Jun 2024 03:52:32 +0000. Up 7.82 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Thu, 06 Jun 2024 03:52:35 +0000. Up 10.07 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Thu, 06 Jun 2024 03:52:36 +0000. Up 11.08 seconds.
+Cloud-init v. 22.2.2 finished at Thu, 06 Jun 2024 03:52:36 +0000. Datasource DataSourceEc2.  Up 11.31 seconds
+Cloud-init v. 22.2.2 running 'init' at Sat, 08 Jun 2024 00:37:45 +0000. Up 7.95 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Sat, 08 Jun 2024 00:37:47 +0000. Up 10.11 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Sat, 08 Jun 2024 00:37:48 +0000. Up 11.06 seconds.
+Cloud-init v. 22.2.2 finished at Sat, 08 Jun 2024 00:37:48 +0000. Datasource DataSourceEc2.  Up 11.30 seconds
+Cloud-init v. 22.2.2 running 'init' at Thu, 13 Jun 2024 02:41:17 +0000. Up 8.51 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Thu, 13 Jun 2024 02:41:19 +0000. Up 10.64 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Thu, 13 Jun 2024 02:41:20 +0000. Up 11.62 seconds.
+Cloud-init v. 22.2.2 finished at Thu, 13 Jun 2024 02:41:20 +0000. Datasource DataSourceEc2.  Up 11.85 seconds
+Cloud-init v. 22.2.2 running 'init' at Tue, 18 Jun 2024 03:51:17 +0000. Up 10.25 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Tue, 18 Jun 2024 03:51:19 +0000. Up 12.67 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Tue, 18 Jun 2024 03:51:20 +0000. Up 13.67 seconds.
+Cloud-init v. 22.2.2 finished at Tue, 18 Jun 2024 03:51:20 +0000. Datasource DataSourceEc2.  Up 13.91 seconds
+Cloud-init v. 22.2.2 running 'init' at Wed, 26 Jun 2024 00:15:35 +0000. Up 7.84 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Wed, 26 Jun 2024 00:15:38 +0000. Up 10.00 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Wed, 26 Jun 2024 00:15:38 +0000. Up 10.94 seconds.
+Cloud-init v. 22.2.2 finished at Wed, 26 Jun 2024 00:15:39 +0000. Datasource DataSourceEc2.  Up 11.18 seconds
+Cloud-init v. 22.2.2 running 'init' at Wed, 21 Aug 2024 02:11:03 +0000. Up 7.37 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Wed, 21 Aug 2024 02:11:05 +0000. Up 9.55 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Wed, 21 Aug 2024 02:11:06 +0000. Up 10.54 seconds.
+Cloud-init v. 22.2.2 finished at Wed, 21 Aug 2024 02:11:06 +0000. Datasource DataSourceEc2.  Up 10.77 seconds
+Cloud-init v. 22.2.2 running 'init' at Sat, 24 Aug 2024 00:59:29 +0000. Up 7.26 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Sat, 24 Aug 2024 00:59:31 +0000. Up 9.48 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Sat, 24 Aug 2024 00:59:32 +0000. Up 10.44 seconds.
+Cloud-init v. 22.2.2 finished at Sat, 24 Aug 2024 00:59:32 +0000. Datasource DataSourceEc2.  Up 10.68 seconds
+Cloud-init v. 22.2.2 running 'init' at Mon, 26 Aug 2024 14:37:59 +0000. Up 7.80 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Mon, 26 Aug 2024 14:38:02 +0000. Up 10.01 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Mon, 26 Aug 2024 14:38:03 +0000. Up 11.00 seconds.
+Cloud-init v. 22.2.2 finished at Mon, 26 Aug 2024 14:38:03 +0000. Datasource DataSourceEc2.  Up 11.23 seconds
+Cloud-init v. 22.2.2 running 'init' at Mon, 26 Aug 2024 18:17:00 +0000. Up 7.18 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Mon, 26 Aug 2024 18:17:02 +0000. Up 9.31 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Mon, 26 Aug 2024 18:17:03 +0000. Up 10.26 seconds.
+Cloud-init v. 22.2.2 finished at Mon, 26 Aug 2024 18:17:03 +0000. Datasource DataSourceEc2.  Up 10.49 seconds
+Cloud-init v. 22.2.2 running 'init' at Tue, 03 Sep 2024 17:42:01 +0000. Up 6.90 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Tue, 03 Sep 2024 17:42:04 +0000. Up 9.24 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Tue, 03 Sep 2024 17:42:05 +0000. Up 10.22 seconds.
+Cloud-init v. 22.2.2 finished at Tue, 03 Sep 2024 17:42:05 +0000. Datasource DataSourceEc2.  Up 10.44 seconds
+Cloud-init v. 22.2.2 running 'init' at Thu, 05 Sep 2024 02:06:09 +0000. Up 8.54 seconds.
+ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: |  enX0  | True |        172.31.19.52        | 255.255.240.0 | global | 02:c4:e1:e9:b0:a9 |
+ci-info: |  enX0  | True | fe80::c4:e1ff:fee9:b0a9/64 |       .       |  link  | 02:c4:e1:e9:b0:a9 |
+ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 172.31.16.1 |     0.0.0.0     |    enX0   |   UG  |
+ci-info: |   1   |  172.31.0.2 | 172.31.16.1 | 255.255.255.255 |    enX0   |  UGH  |
+ci-info: |   2   | 172.31.16.0 |   0.0.0.0   |  255.255.240.0  |    enX0   |   U   |
+ci-info: |   3   | 172.31.16.1 |   0.0.0.0   | 255.255.255.255 |    enX0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |
+ci-info: |   2   |    local    |    ::   |    enX0   |   U   |
+ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 22.2.2 running 'modules:config' at Thu, 05 Sep 2024 02:06:11 +0000. Up 10.81 seconds.
+Cloud-init v. 22.2.2 running 'modules:final' at Thu, 05 Sep 2024 02:06:12 +0000. Up 11.80 seconds.
+Cloud-init v. 22.2.2 finished at Thu, 05 Sep 2024 02:06:13 +0000. Datasource DataSourceEc2.  Up 12.02 seconds

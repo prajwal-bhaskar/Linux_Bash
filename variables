@@ -1,0 +1,12 @@
+#!/bin/bash
+
+myname="Prajwal"
+age=25
+
+echo "My name is $myname and I am $age years old."
+
+
+timedate=$(date)
+
+
+echo "The current date and time is $timedate"

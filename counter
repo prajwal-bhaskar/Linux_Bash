@@ -1,0 +1,10 @@
+#!/bin/bash
+
+counter=10
+
+
+while [ $counter -ne -1 ]
+do
+ echo "You will be hacked in $counter seconds."
+ counter=$(( $counter -1 ))
+done 

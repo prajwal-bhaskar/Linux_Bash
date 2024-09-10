@@ -1,0 +1,21 @@
+#!/bin/bash
+
+finished=0
+
+while [ $finished -ne 1 ]
+do
+  echo "a - Hello"
+  echo "b - Hi"
+  echo "c - Bye"
+ 
+
+  read greet
+  
+  case $greet in
+  a) echo "Hello";;
+  b) echo "Hi";;
+  c) echo "Bye"
+     finished=1;;
+  *) echo "NO"
+  esac
+done 
